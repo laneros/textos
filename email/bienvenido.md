@@ -1,4 +1,4 @@
-¡Gracias por unirte a Laneros.com!
+# ¡Gracias por unirte a Laneros.com!
 
 Somos una comunidad que nació en el año 2000 y ha crecido desde entonces para convertirse en la comunidad tecnológica de Colombia. Sabemos que comenzar es difícil y puedes perderte de algunas de nuestras secciones así que aquí hay unos tips para que aproveches al máximo tu estancia.
 
